@@ -208,7 +208,7 @@ button, a {
     position: relative;
     background:
         linear-gradient(rgba(42,33,24,.35), rgba(42,33,24,.55)),
-        url('/assets/Images/Foto Pernikahan.webp') center 40%/cover;
+        url('/assets/Images/Foto pernikahan.webp') center 40%/cover;
     color: white;
 }
 
